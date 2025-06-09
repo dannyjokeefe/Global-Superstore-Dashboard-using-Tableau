@@ -47,7 +47,3 @@ The Global Superstore dataset is a popular business dataset used to simulate a r
 2. Open it with **Tableau Desktop** (v2020.4 or later recommended).
 3. Interact with filters, maps, and charts to explore the data story.
 
-1. Download the `Global superstore dashboard.twbx` file.
-2. Open it with **Tableau Desktop** (v2020.4 or later recommended).
-3. Interact with filters, maps, and charts to explore the data story.
-
