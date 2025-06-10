@@ -44,7 +44,7 @@ The Global Superstore dataset is a popular business dataset used to simulate a r
 ## 📬 Contact
 
 Let’s connect or collaborate:  
-[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyjokeefe)
 
 ---
 **Created by:** *Danny O'Keefe*  
