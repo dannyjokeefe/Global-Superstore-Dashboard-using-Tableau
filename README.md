@@ -41,7 +41,14 @@ The Global Superstore dataset is a popular business dataset used to simulate a r
 
 ![image](https://github.com/user-attachments/assets/45b3c2b1-ec43-428d-a92c-ebc111abf4b2)
 
-## 🚀 How to Use
+## 📬 Contact
+
+Let’s connect or collaborate:  
+[LinkedIn](https://linkedin.com/in/dannyokeefedatatechnician) • [GitHub](https://github.com/dannyokeefe)
+
+---
+**Created by:** *Danny O'Keefe*  
+**Date:** May 2025
 
 1. Download the `Global superstore dashboard.twbx` file.
 2. Open it with **Tableau Desktop** (v2020.4 or later recommended).
